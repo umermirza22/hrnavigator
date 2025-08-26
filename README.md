@@ -1,2 +1,2 @@
 # hrnavigator
-chris hr navigator witht the team
+chris hr navigator with MS-Team
